@@ -66,7 +66,7 @@
 <wire x1="1.778" y1="39.36" x2="1.778" y2="0" width="0" layer="20"/>
 <text x="5.08" y="38.608" size="0.8128" layer="25" rot="R270">Set = A13 Low</text>
 <text x="14.732" y="9.652" size="1.016" layer="25" rot="R90">IC 27c128 / 27c64</text>
-<text x="10.16" y="3.81" size="1.016" layer="26" rot="MR90">C64 ROM Adapter v1.0
+<text x="10.16" y="3.81" size="1.016" layer="26" rot="MR90">C64 ROM Adapter v1.0.2
 http://retro-commodore.eu
 Copyright (c) 2018
 
