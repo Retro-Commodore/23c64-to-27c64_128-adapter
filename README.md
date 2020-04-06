@@ -1,4 +1,4 @@
-# 23c64-to-27c64_128-adapter
+# RCEU2305 - 23C64 to 27C64/27C128 ROM to EPROM adapter
 A 23C64 ROM to 27C64/27C128 adapter
 
 Meaning you can add a 27C64 or 27C128 eprom to the adapter, and plug the adapter into one of the rom sockets of i.e. the C64, C128 etc.
